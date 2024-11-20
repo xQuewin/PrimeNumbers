@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Q\Documents\Visual Studio 2022\PrimeNumbers\PrimeNumbers\PrimeNumbers\main.cpp(17,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PrimeNumbers.vcxproj -> C:\Users\Q\Documents\Visual Studio 2022\PrimeNumbers\PrimeNumbers\x64\Debug\PrimeNumbers.exe
